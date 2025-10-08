@@ -7,7 +7,7 @@
     "start": "node overload.js"
   },
   "dependencies": {
-      "@whiskeysockets/baileys": "github:Bealxvasion/Bella-baileys",
+       "@whiskeysockets/baileys": "npm:@zieee/baileys",
        "fs": "latest",
         "chalk": "^4.1.2",
         "moment": "^2.29.1",
